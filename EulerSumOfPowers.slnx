@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/N5.DictionarySearch/N5.DictionarySearch.csproj" />
+    <Project Path="src/N5.DirectSearch/N5.DirectSearch.csproj" />
+  </Folder>
+</Solution>

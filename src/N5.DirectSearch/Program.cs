@@ -2,5 +2,5 @@
 
 Console.WriteLine("Enter Limit:");
 int limit = Convert.ToInt32(Console.ReadLine());
-
-DirectSearcher.Run(limit);
+int exponent = 5;
+DirectSearcher.Run(limit, exponent);
